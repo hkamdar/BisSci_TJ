@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BisSci @TJ</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <color name="black">#000000</color>
+    <string name="title_activity_main2">BisSci @TJ</string>
+    <string name="title_activity_main3">Past Presentations</string>
+    <string name="title_activity_main4">Sign-Up</string>
+</resources>
